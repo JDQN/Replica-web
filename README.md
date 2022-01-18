@@ -4,7 +4,7 @@
 <p><em> Educamás -> <a href="https://educamas.com.co/">Programate</a> Cohorte IV REEDOM DEVELOPER. 💻 </br>
 </em></p>
 
-<h1>Link Backlog Jira</h1>
+<h1> 📊 Link Backlog Jira</h1>
 https://davidmonk.atlassian.net/jira/software/projects/SB/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiYzU5YjYwOWY4NzM3NGQ4NmIxZWU4NjU5NGY5ZTUyOTUiLCJwIjoiaiJ9
 
 Trabajaremos en crear una replica esacta de nuestra primera landing page basándonos en unos mockups que el equipo de diseño nos entregó, solo necesitamos conocimientos básicos de HTML semántico y CSS.
