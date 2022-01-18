@@ -9,7 +9,7 @@ https://davidmonk.atlassian.net/jira/software/projects/SB/boards/2/roadmap?share
 
 Trabajaremos en crear una replica esacta de nuestra primera landing page basándonos en unos mockups que el equipo de diseño nos entregó, solo necesitamos conocimientos básicos de HTML semántico y CSS.
 
-<h1>Contexto del proyecto</h1>
+<h1>🎯 Contexto del proyecto</h1>
 
 Siempre que vamos a crear un página web nos preocupa la parte del diseño, menos mal que en las empresas por lo general hay un grupo de profesionales que cuentan con estos conocimientos y nos entregan el material necesario para comenzar a desarrollar la web, en nuestra empresa justamente contamos con esa ventaja.
 
