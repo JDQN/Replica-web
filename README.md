@@ -35,3 +35,5 @@ Desarrolla una página web con los mockups que el equipo de diseño nos entregó
 - 🌐 El código DEBE ser ordenado, identado, semántico y con buenas prácticas de desarrollo: clean code.
 - 🌐 La distribución del contenido DEBERÍA hacerse con Flex-box o Grid system.
 - 🌐 Los tamaños de los elementos DEBEN ser iguales a los elementos del mockup.
+
+<img src="https://github.com/JDQN/Replica-web/blob/main/1.inicio.png">
